@@ -11,7 +11,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/Blubly/gbrute.git
+git clone https://github.com/Blubly/gbruteblub.git
 
 cd gbrute
 
