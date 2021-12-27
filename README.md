@@ -1,4 +1,4 @@
-# gbrute
+# gbruteblub
 Google Account Bruteforce Tool.
 
 Work with google account that have access to less secure apps.
