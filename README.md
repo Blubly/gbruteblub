@@ -1,5 +1,9 @@
 # gbrute
-Google Account Bruteforce Tool. Credits To: https://null-byte.wonderhowto.com/.
+Google Account Bruteforce Tool.
+
+Work with google account that have access to less secure apps.
+
+Credits To: https://null-byte.wonderhowto.com/.
 
 #Installation
 
